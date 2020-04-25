@@ -1,0 +1,2 @@
+# auto-encoders-recomended-systems
+this model is based on stacked auto encoders where we will be building this model with 4 hidden layers which is using sigmoid activation and the loss is calculated by RMS, this model is a recomended system for movie reviews, this model predicts the review rating for the movies which user didnt saw (from 1-5) the model is trained with 100k reviews , but i am also providing the 1million  reviews dataset for experimenting
